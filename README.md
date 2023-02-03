@@ -1,6 +1,6 @@
 # DEMO
 
-This is an implementation of the project "Tour Of Heroes" descripted in Angular.io Tutorial section
+This is an implementation of the project "Tour Of Heroes" descripted in Angular.io Tutorial section.
 
 # AngularTourOfHeroes
 
