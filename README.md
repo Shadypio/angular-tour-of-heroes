@@ -1,3 +1,7 @@
+# DEMO
+
+This is an implementation of the project "Tour Of Heroes" descripted in Angular.io Tutorial section
+
 # AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
